@@ -1,0 +1,23 @@
+Let’s take IDLE out for a spin! First, check to make sure that
+your text cursor is blinking. If your text cursor is blinking, type
+print(′Hello World!′) into the interpreter and press Enter.
+>>> print('Hello World!')
+Hello World!
+Congratulations—you just wrote and ran your first line of
+Python code! So, what exactly happened? The code you entered
+tells Python to print the text inside the quotes. Try writing
+another line of code using the same code as before; however,
+replace Hello World! with another phrase. Be sure to keep
+the quotes surrounding the phrase; otherwise, the interpreter
+returns an error after you press Enter.
+>>> print( ‘Python is awesome!’)
+Python is awesome!
+There are two important things to remember about running
+Python code. First, Python code is run from top to bottom.
+What this means is that the code that appears at the top of the
+program is run first and the final line of the code is run last.
+Second, Python relies on proper indentation. You will notice
+later in this book that some of the code examples are indented.
+Fortunately, IDLE automatically includes indentation for you.
+However, it’s also helpful to be aware of how much you should
+indent your code when necessary. If you need to manually
